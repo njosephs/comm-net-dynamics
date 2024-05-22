@@ -9,7 +9,18 @@ Josephs, Nathaniel, Side Peng, and Forrest W. Crawford. "Communication network d
 
 ## Data
 
-**email_graph.txt**: a sparse matrix file representing the weighted adjacency matrix of the communication network for the entire Microsoft Corporation in May 2019
+### Download
+
+1. [Install Git Large File Storage (LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
+
+2. Clone the repository using LFS
+```
+git lfs clone njosephs/comm-net-dynamics
+```
+
+### Files
+
+**email_graph.txt**: a sparse matrix file representing the weighted adjacency matrix of the (directed) communication network for the entire Microsoft Corporation in May 2019
 
 **RD_summary.csv**: a data frame summarizing the path analysis of the organizational hierarchy
 
