@@ -1,7 +1,7 @@
 # comm-net-dynamics
 This repository contains the publically available data from the text "Communication network dynamics in a large organizational hierarchy"
 
-https://arxiv.org/abs/2208.01208
+https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/58053?confirm=296216ef
 
 ## Citation
 
